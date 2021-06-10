@@ -26,7 +26,7 @@
     },
     {
       "id": 1,
-      "name": "线路5",
+      "name": "线路5VIP",
       "ad": "no",
       "url": "https://api.10dy.net/?url="
     },
@@ -47,6 +47,12 @@
       "name": "线路8",
       "ad": "no",
       "url": "https://jx.000180.top/jx/?url="
+    },
+    {
+      "id": 1,
+      "name": "iqiyi",
+      "ad": "no",
+      "url": "https://660e.com/?url="
     }
   ]
 }
